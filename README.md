@@ -33,7 +33,7 @@ The research I have utilized:
 The program accepts binary matrices of pairwise comparisons. Initially, these matrices can be presented in the form of tables with any content. Data tables need to be prepared in advance to work with the program (often individually automated for each specific task), and then the process of enhancing consistency can be initialized.
 
 <p align="center">
-<img width="863" alt="example_table" src="https://github.com/mykhailo-arkhipov/Consistency_Increaser/assets/122175623/f27b9660-a50a-4569-a308-73fb638faf0c">
+<img width="656" alt="example_table" src="https://github.com/mykhailo-arkhipov/Consistency_Increaser/assets/122175623/f27b9660-a50a-4569-a308-73fb638faf0c">
 </p>
 
 #### Example of a result 
@@ -51,19 +51,19 @@ Research tests were conducted to find dependencies between the number of cycles 
 ##### Part 1:
 
 <p align="center">
-<img width="863" alt="tests1" src="https://github.com/mykhailo-arkhipov/Consistency_Increaser/assets/122175623/ac2cdc61-0065-42c7-aae4-59b675096960">
+<img width="656" alt="tests1" src="https://github.com/mykhailo-arkhipov/Consistency_Increaser/assets/122175623/ac2cdc61-0065-42c7-aae4-59b675096960">
 </p>
 
 ##### Part 2-1:
 
 <p align="center">
-<img width="862" alt="tests2" src="https://github.com/mykhailo-arkhipov/Consistency_Increaser/assets/122175623/5877f4f9-6642-4407-99ef-23d7551cf66b">
+<img width="656" alt="tests2" src="https://github.com/mykhailo-arkhipov/Consistency_Increaser/assets/122175623/5877f4f9-6642-4407-99ef-23d7551cf66b">
 </p>
 
 ##### Part 2-2:
 
 <p align="center">
-<img width="861" alt="tests 3" src="https://github.com/mykhailo-arkhipov/Consistency_Increaser/assets/122175623/5fe3f365-d74d-4515-9908-495b78db5e13">
+<img width="656" alt="tests 3" src="https://github.com/mykhailo-arkhipov/Consistency_Increaser/assets/122175623/5fe3f365-d74d-4515-9908-495b78db5e13">
 </p>
 
 #### Commercial potential of the work
