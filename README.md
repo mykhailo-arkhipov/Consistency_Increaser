@@ -25,7 +25,7 @@ The research I have utilized:
 #### Algoritm 
 
 <p align="center">
-<img width="730" alt="algo" src="https://github.com/mykhailo-arkhipov/mykhailo-arkhipov/assets/122175623/0e74c0d3-5f91-44f4-ba9b-9f76b1473799">
+<img width="656" alt="algo" src="https://github.com/mykhailo-arkhipov/Consistency_Increaser/assets/122175623/af14ba39-e412-4bd5-bced-5fd9fc143cc1">
 </p>
 
 #### Example of data
@@ -41,7 +41,7 @@ The program accepts binary matrices of pairwise comparisons. Initially, these ma
 As a visual example, you can observe a graph that illustrates a consistent pairwise comparison matrix (or a matrix with improved consistency).
 
 <p align="center">
-<img width="730" alt="graph" src="https://github.com/mykhailo-arkhipov/mykhailo-arkhipov/assets/122175623/a896e168-72a1-4a3c-929b-950a1c285dd3">
+<img width="656" alt="graph" src="https://github.com/mykhailo-arkhipov/Consistency_Increaser/assets/122175623/98bb1a5b-8148-446b-af1e-e34d247cb5f6">
 </p>
 
 #### Summary testing diagrams
@@ -69,3 +69,4 @@ Research tests were conducted to find dependencies between the number of cycles 
 #### Commercial potential of the work
 
 As an implemented component, means of enhancing consistency for different types of matrices are integrated into some products that work with decision-making systems. These systems are in demand in the field of decision management or when dealing with the ranking of large volumes of data performed in binary matrices of pairwise comparisons.
+
