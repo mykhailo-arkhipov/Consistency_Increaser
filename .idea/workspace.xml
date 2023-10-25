@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bdd9637-910f-4811-b4fd-c48b32a6dda5" name="Changes" comment="qwe">
+      <change afterPath="$PROJECT_DIR$/src/main/java/AutoReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CyclesFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_10_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_10_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_10_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_10_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_10_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_10_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_3_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AdjacencyMatrixToGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CyclesActions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GetCsvMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GraphVisualization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GraphVisualizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MatrixCyclesAutoReducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MatrixCyclesAutoReducerTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FOR_TESTS_MatrixCyclesAutoReducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MatrixCyclesReducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ManualReducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MatrixCyclesReducerTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MatrixEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Encoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MatrixEncoderCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EncoderChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MatrixInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MatrixInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OrdinalConsistencyRatio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OrdinalConsistencyRatio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/plans.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CyclesToAlternatives.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CyclesToAlternatives.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MatrixInputTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MatrixInputTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Matrix_EncoderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Matrix_EncoderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ReducingTestSimulation1Best.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ReducingTestSimulationOneBest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ReducingTestSimulation2Medium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ReducingTestSimulationTwoMedium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ReducingTestSimulation3Worst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ReducingTestSimulation3Worst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thesis_reworked_16.iml" beforeDir="false" afterPath="$PROJECT_DIR$/thesis_reworked_16.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="last_edition" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="99ee65c5-ab7a-45eb-a228-ed5dd0a1091b" />
+        <option name="url" value="https://github.com/mykhailo-arkhipov/thesis_reworked_16.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2KPSig8tlk6U1ct6CUEfkuvl9CQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/thesis_reworked_16/src.zip&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ConsoleWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConsoleWindow" />
+      <module name="thesis_reworked_16" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="thesis_reworked_16" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="View (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="View" />
+      <module name="thesis_reworked_16" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="View" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="View" />
+      <module name="thesis_reworked_16" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyclesToAlternatives" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="thesis_reworked_16" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CyclesToAlternatives" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ConsoleWindow" />
+        <item itemvalue="Application.View" />
+        <item itemvalue="Application.View (1)" />
+        <item itemvalue="JUnit.CyclesToAlternatives" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bdd9637-910f-4811-b4fd-c48b32a6dda5" name="Changes" comment="" />
+      <created>1673874856219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673874856219</updated>
+    </task>
+    <task id="LOCAL-00001" summary="qwe">
+      <created>1673895994344</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673895994344</updated>
+    </task>
+    <task id="LOCAL-00002" summary="qwe">
+      <created>1673935241434</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673935241434</updated>
+    </task>
+    <task id="LOCAL-00003" summary="qwe">
+      <created>1676128890726</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676128890726</updated>
+    </task>
+    <task id="LOCAL-00004" summary="qwe">
+      <created>1676393242296</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676393242296</updated>
+    </task>
+    <task id="LOCAL-00005" summary="qwe">
+      <created>1676641218734</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676641218734</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="qwe" />
+    <option name="LAST_COMMIT_MESSAGE" value="qwe" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/thesis_reworked_16$Main.ic" NAME="Main Coverage Results" MODIFIED="1676588205743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
