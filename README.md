@@ -25,7 +25,7 @@ The research I have utilized:
 #### Algoritm 
 
 <p align="center">
-<img width="800" alt="algo" src="https://github.com/mykhailo-arkhipov/mykhailo-arkhipov/assets/122175623/0e74c0d3-5f91-44f4-ba9b-9f76b1473799">
+<img width="730" alt="algo" src="https://github.com/mykhailo-arkhipov/mykhailo-arkhipov/assets/122175623/0e74c0d3-5f91-44f4-ba9b-9f76b1473799">
 </p>
 
 #### Example of data
@@ -41,7 +41,7 @@ The program accepts binary matrices of pairwise comparisons. Initially, these ma
 As a visual example, you can observe a graph that illustrates a consistent pairwise comparison matrix (or a matrix with improved consistency).
 
 <p align="center">
-<img width="800" alt="graph" src="https://github.com/mykhailo-arkhipov/mykhailo-arkhipov/assets/122175623/a896e168-72a1-4a3c-929b-950a1c285dd3">
+<img width="730" alt="graph" src="https://github.com/mykhailo-arkhipov/mykhailo-arkhipov/assets/122175623/a896e168-72a1-4a3c-929b-950a1c285dd3">
 </p>
 
 #### Summary testing diagrams
